@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @imtiaz66
-- I am working as web designer and developer 
+-     I am working as web designer and developer 
 - 👀 I’m interested in learning technology
 - 🌱 I’m currently learning Datascience
 - 💞️ I’m looking to collaborate on Datascientist 
 - 📫 My Email rindimtiaz6600@gmail.com Whatsapp 03061128271
+
+
+I am availble to work with you as web designer and developer 
+My skills are html, css, javascript, jquery, database, php, laravel
 
 <!---
 imtiaz66/imtiaz66 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
