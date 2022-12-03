@@ -2,7 +2,7 @@
 - I am working as web designer and developer 
 - 👀 I’m interested in learning technology
 - 🌱 I’m currently learning Datascience
-- 💞️ I’m looking to collaborate on Datasciennce 
+- 💞️ I’m looking to collaborate on Datascientist 
 - 📫 My Email rindimtiaz6600@gmail.com Whatsapp 03061128271
 
 <!---
